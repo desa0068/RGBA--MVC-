@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_992a2ca03d147bfa11a4945af597fcb5542c22af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_033130fd00ba73f093c8331352539d734b819df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_935088207a8bd92d9ba5a8c63e7ca05282132ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7e0e9ab618f3fb66845713e4f9c75d63fefb1c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c5c8f388c37500dc497efe20e98a280f1df4b29e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_aac03c875f7f2b9a9263e6b89210a0b0e183af9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b2045a482ac24406366071af187d36f17254bb9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_124fb497b32af5ff8a1712ae62321e9f748bfc4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_06c2099d2ce3770f43962c11bd94e0e78edf9a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c30ac52ad53c2d863cc5cec851a252385ba2437">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18cd3321db9113db15cf9406ddd427b16b5d10d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7297047c6158a400b0cab4673f6282ed767d7eac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ffc03e9791a7d73172875bf2f0fb3e083043c05">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aac03e2d5c0592381cebdc82b4e49f6ac6ac5098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/RGBA--MVC-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_dd3cffa1d5e2d0e5a92068a2566bb8859a74ab42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1581d7c1a908dcd460c3db159f3681e6aa227f97">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c764e5e6f62009ae67b5ab39f3b3da7ae69e0c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab895e2f3acc81ff82a80206b97e2afbb601793b">
+        <dex dex="/Users/vaibhavidesai/Desktop/Third_Semester/Android/Github/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d20ec335970f86491c885a4fd936929c5684c1be/classes.dex" />
+    </item>
+
+</items>
